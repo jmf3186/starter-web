@@ -18,3 +18,7 @@ sa kap fet nan mitan moun sa yo
 
 It i stime to rumble
 
+###Copyrighted
+2014 Git.Training!!
+
+
