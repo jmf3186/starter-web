@@ -17,6 +17,7 @@ sa kap fet nan mitan moun sa yo
 ## How to contribute
 
 Please for this repositoty and then issje Pull Request for review
+giving money is better than preaching the word.............
 
 ###Copyrighted
 2014 Git.Training!!
