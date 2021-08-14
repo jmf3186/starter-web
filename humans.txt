@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Jean Marie Francois jmf3186@hotmail.com
 
 # THANKS
 
