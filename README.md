@@ -11,6 +11,7 @@ my only sunshine
 
 ## Purpose!!!
 I want to be a programmer!!
+I am doing some rebas ework right now.  how is that going to help me?  I ahve no clue..
 
 ## Deployment!!!
 
