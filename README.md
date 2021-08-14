@@ -16,7 +16,7 @@ sa kap fet nan mitan moun sa yo
 
 ## How to contribute
 
-It i stime to rumble
+Please for this repositoty and then issje Pull Request for review
 
 ###Copyrighted
 2014 Git.Training!!
